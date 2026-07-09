@@ -11,3 +11,13 @@ Meet the World. Naturally.
 🚧 Under Development
 
 Founder: Ömer
+
+## Roadmap
+
+- [ ] Flutter Setup
+- [ ] Authentication
+- [ ] Home Screen
+- [ ] Explore
+- [ ] Chat
+- [ ] Profile
+- [ ] Events
