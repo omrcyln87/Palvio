@@ -1,23 +1,23 @@
-# Palvio
+# Slovo — Rusça Öğren
 
-AI powered global social platform.
+Türkçe konuşanlar için mobil öncelikli Rusça öğrenme uygulaması.
 
-## Vision
+## Özellikler
 
-Meet the World. Naturally.
+- **Azbuka** — 33 harf, telaffuz ve Türkçe ipuçları
+- **Kelimeler** — selamlaşma, temel, yemek, seyahat, sayılar
+- **Kartlar** — çevirmeli ezber
+- **Quiz** — çoktan seçmeli test
+- İlerleme bu cihazda `localStorage` ile saklanır
 
-## Status
+## Geliştirme
 
-🚧 Under Development
+```bash
+npm install
+npm run dev
+```
 
-Founder: Ömer
-
-## Roadmap
-
-- [ ] Flutter Setup
-- [ ] Authentication
-- [ ] Home Screen
-- [ ] Explore
-- [ ] Chat
-- [ ] Profile
-- [ ] Events
+```bash
+npm run build
+npm run preview
+```
